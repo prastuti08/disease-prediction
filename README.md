@@ -52,7 +52,10 @@ The dataset was provided in CSV format by a training center mentor. It includes 
    cd disease-prediction
 2.pip install -r requirements.txt
 3. streamlit run app.py
-   
+
+   ## 🖼 UI Screenshot
+![Streamlit App Screenshot](screenshot.png)
+
 
 1. Clone the repository:
    ```bash
